@@ -1,24 +1,20 @@
-# README
+# Blogsito
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+Hello everyone, i don't want to go to sleep
+so i created a blog in ruby by following the basic
+tutorial in the documentation
+merci de votre attention
 
-* Ruby version
+# Commands
 
-* System dependencies
+### Migrate
 
-* Configuration
+`bin/rails db:migrate`
 
-* Database creation
+### Run
 
-* Database initialization
+`bin/rails server`
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Just trying Rails, if i don't like it i'll try with another backend language
